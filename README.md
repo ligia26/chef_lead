@@ -27,6 +27,7 @@ Data Harvesting:
 
 When using these pre-built databases, instead of big platforms like Linkedin or Yelp, data can be accessed by leveraging datasets with no scraping. However, even these datasets might need cleaning and validation like email verification, cross-checking linkedin profiles or filtering by location using python scripts.
 Data can also be enriched to maximize its efficiency and accuracy. Available APIs ensure a smooth way to achieve this: 
+
 Google Places API (Get restaurant details, website, ratings)
 LinkedIn API (if accessible) (Job history, endorsements)
 Yelp API (Reviews, business details)
