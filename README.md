@@ -45,3 +45,26 @@ This script:
 ✅ Extracts chef details dynamically
 ✅ Handles pagination for larger lists
 ✅ Pushes data to Google Sheets
+
+What worked well?
+1.Efficiently retrieved data from an open-source DB
+2.Enough data in order to draw some conclusions
+3.The script can be automated even further, but it provides a solid base
+4.Standardized format that allows putting data in an easy to use format
+
+
+Biggest challenges?
+1.Incomplete data: the newly added chefs have the city and restaurant provided while the others don't at first sight, need to dig in deeper
+2.Some databases that are online might not be accessible through this mechanism as the might have CAPTCHAs or rate limits
+3.Ensuring that the data is valid and the right one is challenging as websites have different structures and you might have to adjust methods
+4.If the dataset grows to thousands of entries, optimizing scraping speed and storage efficiency becomes critical.
+
+How could it be improved?
+
+1.Automate Updates: schedule the scraper to run weekly or monthly; store historical data to track career progress and trends.
+2.Better Data Visualization: use interactive dashboards (Tableau, Google Data Studio, Power BI) to analyze trends, input AI on trends.
+3.Better Scraping techniques: use headless browsers (Selenium, Puppeteer) to bypass CAPTCHAs, implement proxy rotation to avoid getting blocked, use API endpoints if available (faster & more reliable than scraping raw HTML).
+4.Expand the dataset using social media resources.
+5.Clean data from duplicates and invalid values.
+
+
