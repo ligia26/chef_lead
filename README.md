@@ -76,4 +76,14 @@ How could it be improved?
 4.Expand the dataset using social media resources.
 5.Clean data from duplicates and invalid values.
 
+Task 3:
+1.Simplified onboarding process with progressive profiling
+2.Follow-up strategy: personalized outreach, also on different means of contact: email, SMS
+3.Referral program: offer bonuses for referring other chefs
+4.Priority access: incentives for the first ones who join
+5.Community building via podcasts and live webinars
+6.Reminder emails for those who did not complete the onboard process but filled the form
+7.Paid online ads
+
+
 
