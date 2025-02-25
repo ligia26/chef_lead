@@ -83,7 +83,79 @@ Task 3:
 4.Priority access: incentives for the first ones who join
 5.Community building via podcasts and live webinars
 6.Reminder emails for those who did not complete the onboard process but filled the form
-7.Paid online ads
+7.Paid online ads: Facebook and Instagram
+
+Task 4:
+
+Partnership for chef acquisition - 3 target organizations:
+
+1.Culinary institutes
+2.Chef associations
+3.Freelancer platforms for hospitality professionals
+
+**Yhangry x Qwick Partnership Pitch Deck**
+
+Slide 1: Unlock New Earning Opportunities for Hospitality Freelancers
+
+**A High-Value Gig Opportunity for Qwick Chefs & Hospitality ProsSubtitle: How a partnership between Yhangry and Qwick can provide chefs and hospitality professionals with more earning potential, flexibility, and career growth.**
+
+Introduction:
+
+Qwick connects hospitality professionals with short-term, flexible job opportunities, allowing chefs to find work on their terms.
+
+Yhangry is a private chef marketplace that enables chefs to book direct-to-client, high-paying gigs in private homes and events.
+
+By partnering, we provide Qwick chefs with an additional revenue stream, a pathway to building their own brand, and a community of direct bookings without the instability of restaurant shifts.
+
+Slide 2: Why This Partnership Matters
+
+The Current Challenges in Hospitality Work:
+
+Many chefs on Qwick rely on hourly gigs, which are often unpredictable and provide little job security.
+
+Restaurant shifts can be demanding, with long hours, fluctuating schedules, and lower earning potential.
+
+There are limited opportunities for independent chefs to establish their own personal brand and client base.
+
+The Yhangry Solution:
+
+Higher Earnings: Chefs set their own prices and keep the majority of their earnings.
+
+Direct Client Relationships: Chefs build their personal brand and get recurring customers.
+
+Full Flexibility: Work when, where, and for whom you want—without relying on third-party scheduling.
+
+Exclusive Incentives for Qwick Members: First 3 bookings commission-free, priority placement in our chef network, and dedicated onboarding support.
+
+Why It Works:
+
+Qwick chefs are already accustomed to flexible work; this partnership expands their earning potential beyond traditional hospitality gigs.
+
+Yhangry provides chefs with direct access to a premium clientele who are willing to pay more for custom, high-quality dining experiences.
+
+Slide 3: How We Can Work Together
+
+A Seamless Partnership for Chef Success:
+
+Co-Branded Awareness Campaigns: Joint email, social media, and in-app promotions to introduce Yhangry as an exclusive high-value gig option for Qwick members.
+
+Incentive Program: Qwick chefs receive first 3 bookings with zero commission, a fast-tracked onboarding process, and priority access to our most in-demand markets.
+
+Educational Webinars & Training: Collaborate on virtual workshops and in-person networking events to help chefs maximize their earning potential.
+
+Job Listings & Platform Integration: Feature Yhangry’s chef opportunities on Qwick’s job board and internal communications.
+
+Cross-Promotion: Yhangry will feature Qwick as a recommended gig platform for chefs looking to diversify their work portfolio.
+
+Next Steps:
+
+Schedule a working session to finalize co-marketing and recruitment strategy.
+
+Pilot the partnership with a select group of Qwick chefs to measure impact.
+
+Scale the program based on data-driven insights, targeting major U.S. cities with strong demand for private chefs.
+
+Together, we can provide chefs with more independence, better earnings, and the opportunity to build a lasting career.
 
 
 
