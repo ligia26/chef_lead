@@ -151,11 +151,11 @@ Next Steps:
 
 Schedule a working session to finalize co-marketing and recruitment strategy.
 
-Pilot the partnership with a select group of Qwick chefs to measure impact.
+Test the partnership with a selected group of Qwick chefs to measure impact.
 
 Scale the program based on data-driven insights, targeting major U.S. cities with strong demand for private chefs.
 
-Together, we can provide chefs with more independence, better earnings, and the opportunity to build a lasting career.
+Together, we can provide chefs with more independence, better earnings, and the opportunity to build a lasting more flexible career.
 
 
 
